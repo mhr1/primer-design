@@ -1,5 +1,5 @@
 # primer-design
 
-This was the original location of the PD5 primer design software library, but this site is not owned by the copyright holder. 
+The PD5 primer design software library is no longer under development and is no longer available on Github. The entire project is archived at GoogleCode https://code.google.com/archive/p/primer-design/. 
 
-It has been necessary to relocate the code to the University of Aberystwyth:- https://www.aber.ac.uk/en/cs/research/cb/projects/
+See also:- University of Aberystwyth https://www.aber.ac.uk/en/cs/research/cb/projects/
